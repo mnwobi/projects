@@ -59,7 +59,7 @@ def format_prompt(question):
 print('trying loading data set')
 
 print('loggingn in')
-login(token="REMOVED")
+login(token="")
 # export XDG_CACHE_HOME=/ocean/projects/cis240109p/mmarius/.cache
 
 print('loggin in ')

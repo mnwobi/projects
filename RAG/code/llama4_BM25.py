@@ -203,7 +203,7 @@ dataset=pd.read_csv('/ocean/projects/cis240109p/mmarius/Genai_work/project/basel
 
 #logging in 
 print('loggingn in')
-login(token="REMOVED")
+login(token="")
 print('logged in')
 
 
